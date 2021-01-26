@@ -26,7 +26,7 @@ namespace UTTT.Ejemplo.Linq.Data.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=SQL5101.site4now.net;Initial Catalog=DB_A6DC31_Manual;User Id=DB_A6DC31_Manual_admin;Password=1029384756Meli")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=SQL5101.site4now.net;Initial Catalog=DB_A6DB81_Manual;User Id=DB_A6DB81_Manual_admin;Password=Aspire5Cortez")]
         public string PersonaConnectionString {
             get {
                 return ((string)(this["PersonaConnectionString"]));
@@ -36,7 +36,7 @@ namespace UTTT.Ejemplo.Linq.Data.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=SQL5101.site4now.net;Initial Catalog=DB_A6DC31_Manual;User Id=DB_A6DC31_Manual_admin;Password=1029384756Meli")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=SQL5101.site4now.net;Initial Catalog=DB_A6DB81_Manual;User Id=DB_A6DB81_Manual_admin;Password=Aspire5Cortez")]
         public string ManualConnectionString {
             get {
                 return ((string)(this["ManualConnectionString"]));
